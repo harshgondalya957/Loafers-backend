@@ -1,0 +1,251 @@
+[
+  {
+    "customer_name": "Hetvi Kumbhani",
+    "customer_email": "hetvikumbhani123@gmail.com",
+    "customer_phone": "9924470816",
+    "store_id": "denton",
+    "total_amount": 10.75,
+    "items": [
+      {
+        "id": "3 Filling Breakfast-1771398806349",
+        "name": "3 Filling Breakfast",
+        "price": 6.75,
+        "quantity": 1
+      }
+    ],
+    "order_type": "delivery",
+    "payment_method": "cash",
+    "delivery_address": "513 kyross business center, 395006"
+  },
+  {
+    "customer_name": "Harsh Gondaliya",
+    "customer_email": "harshgondaliya4556@gmail.com",
+    "customer_phone": "+91 99244-70816",
+    "store_id": "ashton",
+    "total_amount": 11.95,
+    "items": [
+      {
+        "id": "The Club Burrito-1771421410515",
+        "name": "The Club Burrito",
+        "price": 7.95,
+        "quantity": 1
+      }
+    ],
+    "order_type": "delivery",
+    "payment_method": "upi",
+    "delivery_address": "Tirth Heritage\nAbrama Rd\nopp. VRUNDAVAN VILLA\nMota Varachha, 394105"
+  },
+  {
+    "customer_name": "Hetvi Kumbhani",
+    "customer_email": "hetvikumbhani123@gmail.com",
+    "customer_phone": "9924470816",
+    "store_id": "denton",
+    "total_amount": 10.825,
+    "items": [
+      {
+        "id": "Masala Omelette Bun-1771478497371",
+        "name": "Masala Omelette Bun",
+        "price": 6.5,
+        "quantity": 1
+      }
+    ],
+    "order_type": "delivery",
+    "payment_method": "cash",
+    "delivery_address": "513 kyross business center, 395006"
+  },
+  {
+    "customer_name": "Hetvi Kumbhani",
+    "customer_email": "hetvikumbhani123@gmail.com",
+    "customer_phone": "9924470816",
+    "store_id": "denton",
+    "total_amount": 8.1475,
+    "items": [
+      {
+        "id": "Coffee-1771481355027",
+        "name": "Coffee",
+        "price": 3.95,
+        "quantity": 1
+      }
+    ],
+    "order_type": "delivery",
+    "payment_method": "cash",
+    "delivery_address": "513, 395006"
+  },
+  {
+    "customer_name": "Harsh Gondaliya",
+    "customer_email": "harshgondaliya4556@gmail.com",
+    "customer_phone": "+91 99244-70816",
+    "store_id": "denton",
+    "total_amount": 7.95,
+    "items": [
+      {
+        "id": "Peppermint Tea-1771482106379",
+        "name": "Peppermint Tea",
+        "price": 3.95,
+        "quantity": 1
+      }
+    ],
+    "order_type": "delivery",
+    "payment_method": "cash",
+    "delivery_address": "Tirth Heritage\nAbrama Rd\nopp. VRUNDAVAN VILLA\nMota Varachha, 394105",
+    "scheduled_time": "ASAP"
+  },
+  {
+    "customer_name": "Harsh Gondaliya",
+    "customer_email": "harshgondaliya4556@gmail.com",
+    "customer_phone": "+91 99244-70816",
+    "store_id": "denton",
+    "total_amount": 7.752500000000001,
+    "items": [
+      {
+        "id": "Latte-1771489475235",
+        "name": "Latte",
+        "price": 3.95,
+        "quantity": 1
+      }
+    ],
+    "order_type": "delivery",
+    "payment_method": "cash",
+    "delivery_address": "Tirth Heritage\nAbrama Road\nopp. VRUNDAVAN VILLA\nMota Varachha, 394105",
+    "scheduled_time": "ASAP"
+  },
+  {
+    "customer_name": "Hetvi Kumbhani",
+    "customer_email": "hetvikumbhani123@gmail.com",
+    "customer_phone": "9924470816",
+    "store_id": "denton",
+    "total_amount": 7.95,
+    "items": [
+      {
+        "id": "Green Tea-1771495174748",
+        "name": "Green Tea",
+        "price": 3.95,
+        "quantity": 1
+      }
+    ],
+    "order_type": "delivery",
+    "payment_method": "cash",
+    "delivery_address": "513, 395006",
+    "scheduled_time": "ASAP"
+  },
+  {
+    "customer_name": "Harsh Gondaliya",
+    "customer_email": "harshgondaliya4556@gmail.com",
+    "customer_phone": "+91 99244-70816",
+    "store_id": "ashton",
+    "total_amount": 13.5,
+    "items": [
+      {
+        "id": "Loaded Beef Burger-1771502889194",
+        "name": "Loaded Beef Burger",
+        "price": 9.5,
+        "quantity": 1
+      }
+    ],
+    "order_type": "delivery",
+    "payment_method": "cash",
+    "delivery_address": "Tirth Heritage\nAbrama Rd\nopp. VRUNDAVAN VILLA\nMota Varachha, 394105",
+    "scheduled_time": "ASAP"
+  },
+  {
+    "customer_name": "Harsh Gondaliya",
+    "customer_email": "harshgondaliya4556@gmail.com",
+    "customer_phone": "+91 99244-70816",
+    "store_id": "ashton",
+    "total_amount": 18.1225,
+    "items": [
+      {
+        "id": "Loaded Beef Burger-1771502889194",
+        "name": "Loaded Beef Burger",
+        "price": 9.5,
+        "quantity": 1
+      },
+      {
+        "id": "Peppermint Tea-1771503039505",
+        "name": "Peppermint Tea",
+        "price": 3.95,
+        "quantity": 1
+      }
+    ],
+    "order_type": "delivery",
+    "payment_method": "cash",
+    "delivery_address": "Tirth Heritage\nAbrama Rd\nopp. VRUNDAVAN VILLA\nMota Varachha, 394105",
+    "scheduled_time": "ASAP"
+  },
+  {
+    "customer_name": "jemish dhameliya",
+    "customer_email": "jdpatel@gmail.com",
+    "customer_phone": " 93136 83554",
+    "store_id": "denton",
+    "total_amount": 10.825,
+    "items": [
+      {
+        "id": "Vegetable Samosa (4 Pieces)-1771503253273",
+        "name": "Vegetable Samosa (4 Pieces)",
+        "price": 6.5,
+        "quantity": 1
+      }
+    ],
+    "order_type": "delivery",
+    "payment_method": "cash",
+    "delivery_address": "513, 395006",
+    "scheduled_time": "ASAP"
+  },
+  {
+    "customer_name": "harsh gondaliya",
+    "customer_email": "gondaliyaharsh54@gmail.com",
+    "customer_phone": " 93136 83554",
+    "store_id": "denton",
+    "total_amount": 6.0895,
+    "items": [
+      {
+        "id": "Sprite 300ml-1771505772498",
+        "name": "Sprite 300ml",
+        "price": 1.99,
+        "quantity": 1
+      }
+    ],
+    "order_type": "delivery",
+    "payment_method": "cash",
+    "delivery_address": "413, 395006",
+    "scheduled_time": "ASAP"
+  },
+  {
+    "customer_name": "harsh gondaliya",
+    "customer_email": "gondaliyaharsh54@gmail.com",
+    "customer_phone": " 93136 83554",
+    "store_id": "denton",
+    "total_amount": 8.1475,
+    "items": [
+      {
+        "id": "Coffee-1771561707857",
+        "name": "Coffee",
+        "price": 3.95,
+        "quantity": 1
+      }
+    ],
+    "order_type": "delivery",
+    "payment_method": "cash",
+    "delivery_address": "513, 395006",
+    "scheduled_time": "ASAP"
+  },
+  {
+    "customer_name": "harsh gondaliya",
+    "customer_email": "gondaliyaharsh54@gmail.com",
+    "customer_phone": " 93136 83554",
+    "store_id": "denton",
+    "total_amount": 7.95,
+    "items": [
+      {
+        "id": "Karak Chai-1771564420739",
+        "name": "Karak Chai",
+        "price": 3.95,
+        "quantity": 1
+      }
+    ],
+    "order_type": "delivery",
+    "payment_method": "cash",
+    "delivery_address": "513, 395006",
+    "scheduled_time": "ASAP"
+  }
+]
