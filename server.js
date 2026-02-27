@@ -4,11 +4,15 @@ const cors = require('cors');
 // const bodyParser = require('body-parser'); // Deprecated in Express 4.16+
 
 const app = express();
-const PORT = process.env.PORT || 5001; // Changed to 5001 to avoid conflicts
+const PORT = process.env.PORT || 5000; // Changed to 5000 as requested
 // Server restart trigger for env update
 
 // Middleware
-app.use(cors());
+app.use(cors({
+    origin: "https://loafers-acd5th8e9-gondaliyaharsh54-3084s-projects.vercel.app",
+    methods: ["GET", "POST", "PUT", "DELETE"],
+    credentials: true
+}));
 app.use(express.json()); // Built-in middleware
 
 // Request Logging
