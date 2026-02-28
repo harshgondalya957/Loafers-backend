@@ -9,7 +9,10 @@ const PORT = process.env.PORT || 5000; // Changed to 5000 as requested
 
 // Middleware
 app.use(cors({
-    origin: "https://loafers-acd5th8e9-gondaliyaharsh54-3084s-projects.vercel.app",
+    origin: [
+        "https://loafers-acd5th8e9-gondaliyaharsh54-3084s-projects.vercel.app",
+        "http://localhost:5173"
+    ],
     methods: ["GET", "POST", "PUT", "DELETE"],
     credentials: true
 }));
